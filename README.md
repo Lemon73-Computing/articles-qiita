@@ -1,2 +1,2 @@
-# articles-qiita
-My articles in qiita.
+# Articles in Qiita
+My articles in Qiita.

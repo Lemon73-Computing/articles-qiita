@@ -3,3 +3,6 @@
 
 ## Summary
 My articles in Qiita.
+
+## How to use
+Please read [Qiita Cli - GitHub](https://github.com/increments/qiita-cli).

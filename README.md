@@ -6,3 +6,22 @@ My articles in Qiita.
 
 ## How to use
 Please read [Qiita Cli - GitHub](https://github.com/increments/qiita-cli).
+
+### Show preview
+
+```shell
+npx qiita preview
+```
+
+### Create new article
+
+```shell
+npx qiita new article-name
+# e.g. npx qiita new welcome-to-qiita.md
+```
+
+### Sync with Qiita (web)
+
+```shell
+npx qitta pull
+```

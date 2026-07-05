@@ -3,6 +3,9 @@ title: '[NixOS] Raspberry Pi で再現可能なサーバーを作ってみたい
 tags:
   - 'Nix'
   - 'NixOS'
+  - 'RaspberryPi'
+  - 'サーバー'
+  - '開発環境'
 private: true
 updated_at: ''
 id: null
@@ -12,6 +15,8 @@ ignorePublish: false
 ---
 
 [Qiita Tech Festa 2026](https://qiita.com/tech-festa/2026) の投稿記事です。
+
+<!-- 検証から記事まで1か月かかってるの、時間かかりすぎてるねぇ -->
 
 ## TL;DR
 
@@ -200,3 +205,7 @@ SD カードを Raspberry Pi に入れ、電源を差し込むと自動起動し
 ### 役に立ちそう
 
 - https://mtlynch.io/nixos-pi4/
+
+#### 前作
+
+- https://zenn.dev/lemon73/scraps/421ae9ce9f2241

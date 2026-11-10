@@ -1,4 +1,13 @@
 {
+  "name": "articles-qiita",
+  "private": "false",
+  "scripts": {
+    "create": "npx qiita new",
+    "pull": "npx qiita pull",
+    "push": "npx qiita publish --all",
+    "dev": "npx qiita preview",
+    "preview": "npx qiita preview"
+  },
   "dependencies": {
     "@qiita/qiita-cli": "^1.12.0"
   }

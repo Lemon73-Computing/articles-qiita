@@ -9,6 +9,6 @@
     "preview": "npx qiita preview"
   },
   "dependencies": {
-    "@qiita/qiita-cli": "^1.12.0"
+    "@qiita/qiita-cli": "^1.13.0"
   }
 }
